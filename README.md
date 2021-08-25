@@ -20,5 +20,5 @@ Microsoft.Web/sites
 1.66666666666667
 ID:
 ]
-```
 Total number of resources in all subscriptions: 16
+```
