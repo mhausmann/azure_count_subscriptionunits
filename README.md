@@ -1,5 +1,7 @@
 # azure_count_subscriptionunits
-Powershell script to count resources for ServiceNow Subscription Unit licenses
+Powershell script to count resources for ServiceNow Subscription Unit licenses.
+
+Run this script in an Azure Powerhsell terminal.
 
 ## Example output
 ```powershell
@@ -18,5 +20,5 @@ Microsoft.Web/sites
 1.66666666666667
 ID:
 ]
-Total number of resources in all subscriptions: 16
 ```
+Total number of resources in all subscriptions: 16
